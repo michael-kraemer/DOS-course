@@ -35,3 +35,5 @@ data<-Mappe1[2:31,2:13]
 str(data)
 summary(data)
 
+#some changes (just to get to know GitHub)
+
